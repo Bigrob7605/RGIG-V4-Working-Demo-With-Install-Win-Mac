@@ -1,0 +1,12 @@
+DEMO = {
+    'field': 'F',
+    'prompt': "Analyze a recursive/ambiguous image or pattern. Describe recursion depth, flag abstraction drift, emit YAML audit.",
+    'response': "Recursive fractal with 5 layers.",
+    'audit': {
+        'semantic_depth': 8,
+        'recursion_detection': 9,
+        'stability': 8,
+        'honesty': 10,
+        'audit_token': "abc123"
+    }
+} 

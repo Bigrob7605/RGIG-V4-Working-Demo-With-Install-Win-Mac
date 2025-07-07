@@ -1,0 +1,13 @@
+{
+  "field": "A",
+  "prompt": "Generate a non-trivial conjecture for a finite, simple cubic graph on 2n vertices. Proceed to proof, counterexample, and audit as outlined.",
+  "response": "Every connected cubic graph on 2n vertices has a perfect matching. Proof: ...",
+  "audit": {
+    "accuracy": 9,
+    "novelty": 8,
+    "honesty": 10,
+    "green_score": 0.95,
+    "improvements": ["Generalize to directed graphs"],
+    "audit_token": "abc123"
+  }
+} 
