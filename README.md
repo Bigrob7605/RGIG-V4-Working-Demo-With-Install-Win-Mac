@@ -34,22 +34,3 @@ RGIG V4 is the universal, modular, idiot-proof AGI/LLM benchmarking suite. Run i
 
 ## License
 Apache 2.0 — open, remixable, and future-proof.
-
-# Launch Checklist
-
-- [ ] Test all fields (A–G) in CLI and Tab UI (single, batch, demo)
-- [ ] Verify Peer Review tab: assign reviewers, export consensus logs, outlier detection
-- [ ] Confirm CLI/Tab UI export/import match
-- [ ] Test on desktop, mobile, tablet
-- [ ] Try demo data, screenshots, onboarding flow
-- [ ] Validate error handling and field import/auto-upgrade
-- [ ] Follow README/Quickstart from fresh clone
-- [ ] Check /docs/screenshots/ and /docs/video/ rendering
-- [ ] Remove obsolete files, confirm /examples/, /tests/, /docker/
-- [ ] Check CI/CD (GitHub Actions) triggers/tests
-- [ ] Run setup.sh (Linux/Mac) or setup.bat (Windows) for easy install
-- [ ] For Tab UI: just open tab-ui/index.html in your browser
-- [ ] Credit all contributors in /docs/CONTRIBUTING.md
-- [ ] Announce launch!  
-
-See /docs/launch.md for full details. 
